@@ -5,5 +5,5 @@ let codigoPostal
 const eventoMultiple = document.getElementById('evento')
 
 eventoMultiple.addEventListener('click', (e) => {
-    let codigoPostal = alert('El alert si funciona')
+    codigoPostal = alert('El alert si funciona')
 })
